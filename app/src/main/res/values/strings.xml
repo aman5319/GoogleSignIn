@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleSignIn</string>
+    <string name="signed_in">Signed In</string>
+    <string name="revoke_access">Revoke access</string>
+    <string name="sign_out">Signed out</string>
+    <string name="signing_in">Signing in</string>
+
+
+
+</resources>
